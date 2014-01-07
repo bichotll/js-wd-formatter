@@ -1,2 +1,2 @@
 #Javascript wd Formatter
-###wd Selenium IDE Extension
+###Selenium IDE wd formatter extension
